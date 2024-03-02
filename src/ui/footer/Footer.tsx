@@ -7,7 +7,7 @@ import linkedin from "@/assets/linkedin.png";
 import logo from "@/assets/footerLogo.png";
 const Footer = () => {
   return (
-    <div className="bg-[#072032] p-10">
+    <div className="bg-[#072032] px-10">
       <Container maxWidth="lg">
         <div className="w-full flex justify-between">
           <Image src={logo} alt="logo" width={93} className="object-contain" />

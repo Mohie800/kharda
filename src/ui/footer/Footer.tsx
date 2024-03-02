@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="w-full flex justify-between">
           <Image src={logo} alt="logo" width={93} className="object-contain" />
           <h6 className="text-white">KHARDA ©️ 2024</h6>
-          <div className="flex gap-4">
+          <div className="flex gap-2 md:gap-4">
             <Image
               src={xcom}
               alt="social"

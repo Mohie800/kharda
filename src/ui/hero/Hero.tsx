@@ -68,6 +68,7 @@ const Hero = () => {
                     ":hover": { bgcolor: "#072032" },
                     width: "max-content",
                     borderRadius: "12px",
+                    mt: 2,
                   }}
                   className="bg-[#072032] mt-5"
                 >

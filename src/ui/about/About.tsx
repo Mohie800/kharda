@@ -28,8 +28,9 @@ const About = () => {
                 investments.
               </p>
               <p className="mt-4">
-                It's time to unlock the potential of your pocket change and
-                build the future you deserve.
+                {
+                  " It's time to unlock the potential of your pocket change and build the future you deserve."
+                }
               </p>
             </div>
           </Grid>

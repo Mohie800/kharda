@@ -107,14 +107,14 @@ const Features = () => {
             <Grid item xs={12} md={9}>
               <div>
                 <h6 className="blue-text text-2xl">
-                  Our mission is to revolutionize the way people perceive and
-                  utilize spare change. We're committed to empowering
-                  individuals to make the most of every cent by converting their
-                  change into wealth-building opportunities.
+                  {
+                    "Our mission is to revolutionize the way people perceive and utilize spare change. We're committed to empowering individuals to make the most of every cent by converting their change into wealth-building opportunities."
+                  }
                 </h6>
                 <h6 className="green-text text-2xl mt-6">
-                  Through simplicity, accessibility, and innovation, we're
-                  reshaping the financial landscape one coin at a time."
+                  {
+                    "Through simplicity, accessibility, and innovation, we're reshaping the financial landscape one coin at a time."
+                  }
                 </h6>
               </div>
             </Grid>

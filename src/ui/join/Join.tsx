@@ -113,9 +113,11 @@ const Join = () => {
               <Button
                 variant="contained"
                 sx={{
+                  bgcolor: "#072032",
                   ":hover": { bgcolor: "#072032" },
                   borderRadius: "12px",
                   paddingBlock: 2,
+                  mt: 2,
                 }}
                 fullWidth
                 className="bg-[#072032] mt-5"

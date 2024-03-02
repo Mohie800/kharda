@@ -64,6 +64,7 @@ const Hero = () => {
                 <Button
                   variant="contained"
                   sx={{
+                    bgcolor: "#072032",
                     ":hover": { bgcolor: "#072032" },
                     width: "max-content",
                     borderRadius: "12px",
